@@ -1,0 +1,17 @@
+El equipo de Sugarland Theatres está intentando aumentar los ingresos de los cines y teatros que gestionan. Para ello, la empresa quiere permitir a los usuarios reservar sus asientos sobre la marcha más fácilmente, garantizando una experiencia fluida. ¿Los usuarios sólo reservan sus asientos desde su escritorio? Muchos usuarios reservan sus asientos sobre la marcha cuando salen con amigos y deciden ver una noche de cine en el último momento. ¿Cómo permitir que los usuarios comprendan fácilmente el mapa de asientos en una pantalla pequeña? ¿Cómo habilitar una buena experiencia en una tableta? Por ejemplo, una parte importante de los usuarios puede reservar sus asientos en casa desde el sofá, planificando una velada familiar.
+
+Sugarland Theatres quiere que usted proporcione un prototipo inicial, 
+imaginando cómo sería una interfaz web responsiva de reserva de asientos: 
+mapeando los asientos, mostrando qué asientos están disponibles y ocupados, y adaptando 
+el mapa al tamaño de la pantalla. La compañía también quiere que usted cree diferentes 
+controles que puedan cambiar según el tamaño de la pantalla. Por ejemplo, los botones y
+los asientos deberían ser más grandes en la pantalla de un móvil, o la interfaz puede 
+cambiar por completo en ciertos dispositivos. Puede reemplazar el mapa de asientos con 
+un mapa de área de sector, que se puede ampliar tocando cada área, para mostrar solo una
+parte de los asientos en las pantallas más pequeñas. El equipo utilizará su prototipo 
+para probar la interfaz de usuario y conectarla al resto de su aplicación y base de datos.
+
+Basta con mostrar los asientos seleccionados en pantalla: el equipo trabajará más tarde para 
+integrarlo con el resto de su aplicación de gestión de asientos. Esta función ayudará a aumentar 
+las reservas al optimizar la experiencia para muchos dispositivos y situaciones y, en última instancia, 
+hará que sea más fácil, rápido y agradable para los usuarios reservar sus espectáculos.
